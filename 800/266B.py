@@ -11,4 +11,3 @@ for i in range(params[-1]):
     else: curr += 1
 
 print("".join(queue))
-    
