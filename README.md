@@ -1,12 +1,20 @@
-<h1 align='center'>
-  Codeforces
-</h1>
 
-<p align='center'>
-  Solutions to problems on CodeForces
+<br />
+<h1 align="center">
+  <a href='https://codeforces.com/profile/sanjaysunil' target="_blank">
+  <img width="400px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Codeforces_logo.svg/2560px-Codeforces_logo.svg.png" />
+  </a>
+</div>
+
+<h3 align='center'>Solutions to problems from the <a href="https://codeforces.com/problemset">problem set</a> on <a href="https://www.codeforces.com/">CodeForces</a></h3>
+
+<p align="center">
+	<img src="https://img.shields.io/badge/Problems%20Solved-21-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
+<br/>
 
-# Problems
+This repository contains my solutions to problems from the CodeForces problem set.
 
 ## Difficulty: 800
 
