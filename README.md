@@ -9,7 +9,7 @@
 <h3 align='center'>Solutions to problems from the <a href="https://codeforces.com/problemset">problem set</a> on <a href="https://www.codeforces.com/">CodeForces</a></h3>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-25-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-26-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 <br/>
@@ -33,6 +33,7 @@ This repository contains my solutions to problems from the CodeForces problem se
 | [112A](https://codeforces.com/problemset/problem/112/A) | [112A.py](./800/112A.py)|
 | [266B](https://codeforces.com/problemset/problem/266/B) | [266B.py](./800/266B.py)|
 | [282A](https://codeforces.com/problemset/problem/282/A) | [282A.py](./800/282A.py)|
+| [136A](https://codeforces.com/problemset/problem/136/A) | [136A.py](./800/136A.py)|
 | [281A](https://codeforces.com/problemset/problem/281/A) | [281A.py](./800/281A.py)|
 | [734A](https://codeforces.com/problemset/problem/734/A) | [734A.py](./800/734A.py)|
 | [41A](https://codeforces.com/problemset/problem/41/A) | [41A.py](./800/41A.py)|
