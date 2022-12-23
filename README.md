@@ -21,7 +21,6 @@ This repository contains my solutions to problems from the CodeForces problem se
 | Problem | Solution |
 |---|---|
 | [61A](https://codeforces.com/problemset/problem/61/A) | [61A.py](./800/61A.py)|
-| [tempCodeRunnerFile](https://codeforces.com/problemset/problem/tempCodeRunnerFil/e) | [tempCodeRunnerFile.py](./800/tempCodeRunnerFile.py)|
 | [1030A](https://codeforces.com/problemset/problem/1030/A) | [1030A.py](./800/1030A.py)|
 | [71A](https://codeforces.com/problemset/problem/71/A) | [71A.py](./800/71A.py)|
 | [59A](https://codeforces.com/problemset/problem/59/A) | [59A.py](./800/59A.py)|

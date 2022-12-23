@@ -11,7 +11,8 @@ for i in difficulties:
     string += ("\n| Problem | Solution |\n|---|---|\n")
     solved += len(arr)
     for j in arr:
-        string += f"| [{j}](https://codeforces.com/problemset/problem/{j[:-1]}/{j[-1]}) | [{j}.py](./{i}/{j}.py)|\n"
+        if j == 'tempCodeRunnerFile': pass
+        else: string += f"| [{j}](https://codeforces.com/problemset/problem/{j[:-1]}/{j[-1]}) | [{j}.py](./{i}/{j}.py)|\n"
 
 f = open('README.md', 'w')
 f.writelines(f"""
