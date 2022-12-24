@@ -9,7 +9,7 @@
 <h3 align='center'>Solutions to problems from the <a href="https://codeforces.com/problemset">problem set</a> on <a href="https://www.codeforces.com/">CodeForces</a></h3>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-30-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-31-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 <br/>
@@ -26,6 +26,7 @@ This repository contains my solutions to problems from the CodeForces problem se
 | [116A - Tram](https://codeforces.com/problemset/problem/116/A) | [116A.py](./800/116A.py)|
 | [136A - Presents](https://codeforces.com/problemset/problem/136/A) | [136A.py](./800/136A.py)|
 | [1772A - A+B?](https://codeforces.com/problemset/problem/1772/A) | [1772A.py](./800/1772A.py)|
+| [200B - Drinks](https://codeforces.com/problemset/problem/200/B) | [200B.py](./800/200B.py)|
 | [231A - Team](https://codeforces.com/problemset/problem/231/A) | [231A.py](./800/231A.py)|
 | [236A - Boy or Girl](https://codeforces.com/problemset/problem/236/A) | [236A.py](./800/236A.py)|
 | [263A - Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | [263A.py](./800/263A.py)|
