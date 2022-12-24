@@ -16,7 +16,7 @@ for i in difficulties:
     string += (f"\n## Difficulty: {str(i)}\n")
     string += ("\n| Problem | Solution |\n|---|---|\n")
     solved += len(arr)
-    for j in arr:
+    for j in sorted(arr):
         if j == 'tempCodeRunnerFile': pass
         else:
           if j in problems:
@@ -27,9 +27,10 @@ for i in difficulties:
             sub2 = '</div>'
             result = re.search('<div class="title">(.*)</div><div class="time-limit">', r.text)
             problems[j] = result.group(1)[3:]
+            string += f"| [{j} - {problems[j]}](https://codeforces.com/problemset/problem/{j[:-1]}/{j[-1]}) | [{j}.py](./{i}/{j}.py)|\n"
             print(f'Added new problem: {j}')
 
-problems_file.write(json.dumps(problems, sort_keys=True, indent=2, separators=(',', ': ')))
+problems_file.write(json.dumps({key: value for key, value in sorted(problems.items())}, sort_keys=True, indent=2, separators=(',', ': ')))
 problems_file.close()
 
 f = open('README.md', 'w')

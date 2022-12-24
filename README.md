@@ -20,34 +20,34 @@ This repository contains my solutions to problems from the CodeForces problem se
 
 | Problem | Solution |
 |---|---|
-| [61A - Ultra-Fast Mathematician](https://codeforces.com/problemset/problem/61/A) | [61A.py](./800/61A.py)|
 | [1030A - In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A) | [1030A.py](./800/1030A.py)|
-| [71A - Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | [71A.py](./800/71A.py)|
-| [59A - Word](https://codeforces.com/problemset/problem/59/A) | [59A.py](./800/59A.py)|
-| [116A - Tram](https://codeforces.com/problemset/problem/116/A) | [116A.py](./800/116A.py)|
-| [705A - Hulk](https://codeforces.com/problemset/problem/705/A) | [705A.py](./800/705A.py)|
-| [467A - George and Accommodation](https://codeforces.com/problemset/problem/467/A) | [467A.py](./800/467A.py)|
-| [263A - Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | [263A.py](./800/263A.py)|
 | [110A - Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A) | [110A.py](./800/110A.py)|
-| [677A - Vanya and Fence](https://codeforces.com/problemset/problem/677/A) | [677A.py](./800/677A.py)|
-| [339A - Helpful Maths](https://codeforces.com/problemset/problem/339/A) | [339A.py](./800/339A.py)|
-| [271A - Beautiful Year](https://codeforces.com/problemset/problem/271/A) | [271A.py](./800/271A.py)|
 | [112A - Petya and Strings](https://codeforces.com/problemset/problem/112/A) | [112A.py](./800/112A.py)|
-| [266B - Queue at the School](https://codeforces.com/problemset/problem/266/B) | [266B.py](./800/266B.py)|
-| [282A - Bit++](https://codeforces.com/problemset/problem/282/A) | [282A.py](./800/282A.py)|
+| [116A - Tram](https://codeforces.com/problemset/problem/116/A) | [116A.py](./800/116A.py)|
 | [136A - Presents](https://codeforces.com/problemset/problem/136/A) | [136A.py](./800/136A.py)|
-| [281A - Word Capitalization](https://codeforces.com/problemset/problem/281/A) | [281A.py](./800/281A.py)|
-| [734A - Anton and Danik](https://codeforces.com/problemset/problem/734/A) | [734A.py](./800/734A.py)|
-| [41A - Translation](https://codeforces.com/problemset/problem/41/A) | [41A.py](./800/41A.py)|
-| [791A - Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | [791A.py](./800/791A.py)|
-| [236A - Boy or Girl](https://codeforces.com/problemset/problem/236/A) | [236A.py](./800/236A.py)|
-| [4A - Watermelon](https://codeforces.com/problemset/problem/4/A) | [4A.py](./800/4A.py)|
-| [546A - Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | [546A.py](./800/546A.py)|
-| [977A - Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) | [977A.py](./800/977A.py)|
-| [344A - Magnets](https://codeforces.com/problemset/problem/344/A) | [344A.py](./800/344A.py)|
-| [231A - Team](https://codeforces.com/problemset/problem/231/A) | [231A.py](./800/231A.py)|
 | [1772A - A+B?](https://codeforces.com/problemset/problem/1772/A) | [1772A.py](./800/1772A.py)|
+| [231A - Team](https://codeforces.com/problemset/problem/231/A) | [231A.py](./800/231A.py)|
+| [236A - Boy or Girl](https://codeforces.com/problemset/problem/236/A) | [236A.py](./800/236A.py)|
+| [263A - Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | [263A.py](./800/263A.py)|
+| [266B - Queue at the School](https://codeforces.com/problemset/problem/266/B) | [266B.py](./800/266B.py)|
+| [271A - Beautiful Year](https://codeforces.com/problemset/problem/271/A) | [271A.py](./800/271A.py)|
+| [281A - Word Capitalization](https://codeforces.com/problemset/problem/281/A) | [281A.py](./800/281A.py)|
+| [282A - Bit++](https://codeforces.com/problemset/problem/282/A) | [282A.py](./800/282A.py)|
+| [339A - Helpful Maths](https://codeforces.com/problemset/problem/339/A) | [339A.py](./800/339A.py)|
+| [344A - Magnets](https://codeforces.com/problemset/problem/344/A) | [344A.py](./800/344A.py)|
+| [41A - Translation](https://codeforces.com/problemset/problem/41/A) | [41A.py](./800/41A.py)|
+| [467A - George and Accommodation](https://codeforces.com/problemset/problem/467/A) | [467A.py](./800/467A.py)|
+| [4A - Watermelon](https://codeforces.com/problemset/problem/4/A) | [4A.py](./800/4A.py)|
 | [50A - Domino piling](https://codeforces.com/problemset/problem/50/A) | [50A.py](./800/50A.py)|
+| [546A - Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | [546A.py](./800/546A.py)|
+| [59A - Word](https://codeforces.com/problemset/problem/59/A) | [59A.py](./800/59A.py)|
+| [61A - Ultra-Fast Mathematician](https://codeforces.com/problemset/problem/61/A) | [61A.py](./800/61A.py)|
+| [677A - Vanya and Fence](https://codeforces.com/problemset/problem/677/A) | [677A.py](./800/677A.py)|
+| [705A - Hulk](https://codeforces.com/problemset/problem/705/A) | [705A.py](./800/705A.py)|
+| [71A - Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | [71A.py](./800/71A.py)|
+| [734A - Anton and Danik](https://codeforces.com/problemset/problem/734/A) | [734A.py](./800/734A.py)|
+| [791A - Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | [791A.py](./800/791A.py)|
+| [977A - Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) | [977A.py](./800/977A.py)|
 
 ## Difficulty: 900
 
