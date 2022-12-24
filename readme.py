@@ -1,10 +1,16 @@
 import glob
 import os
+import json
+import requests
+import re
 
+problems_file = open('problems.json', 'r')
+problems = json.loads(problems_file.read())
 difficulties = list(sorted([int(x[:-1]) for x in glob.glob("*/")]))
-
+problems_file.close()
 string = ''
 solved = 0
+problems_file = open('problems.json', 'w')
 for i in difficulties:
     arr = [os.path.basename(x)[:-3] for x in glob.glob(str(i) + "/*.py")]
     string += (f"\n## Difficulty: {str(i)}\n")
@@ -12,7 +18,19 @@ for i in difficulties:
     solved += len(arr)
     for j in arr:
         if j == 'tempCodeRunnerFile': pass
-        else: string += f"| [{j}](https://codeforces.com/problemset/problem/{j[:-1]}/{j[-1]}) | [{j}.py](./{i}/{j}.py)|\n"
+        else:
+          if j in problems:
+            string += f"| [{j} - {problems[j]}](https://codeforces.com/problemset/problem/{j[:-1]}/{j[-1]}) | [{j}.py](./{i}/{j}.py)|\n"
+          else:
+            r = requests.get(f'https://codeforces.com/problemset/problem/{j[:-1]}/{j[-1]}')
+            sub1 = '<div class="title">'
+            sub2 = '</div>'
+            result = re.search('<div class="title">(.*)</div><div class="time-limit">', r.text)
+            problems[j] = result.group(1)[3:]
+            print(f'Added new problem: {j}')
+
+problems_file.write(json.dumps(problems, sort_keys=True, indent=2, separators=(',', ': ')))
+problems_file.close()
 
 f = open('README.md', 'w')
 f.writelines(f"""
