@@ -9,7 +9,7 @@
 <h3 align='center'>Solutions to problems from the <a href="https://codeforces.com/problemset">problem set</a> on <a href="https://www.codeforces.com/">CodeForces</a></h3>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-31-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-32-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 <br/>
@@ -30,6 +30,7 @@ This repository contains my solutions to problems from the CodeForces problem se
 | [231A - Team](https://codeforces.com/problemset/problem/231/A) | [231A.py](./800/231A.py)|
 | [236A - Boy or Girl](https://codeforces.com/problemset/problem/236/A) | [236A.py](./800/236A.py)|
 | [263A - Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | [263A.py](./800/263A.py)|
+| [266A - Stones on the Table](https://codeforces.com/problemset/problem/266/A) | [266A.py](./800/266A.py)|
 | [266B - Queue at the School](https://codeforces.com/problemset/problem/266/B) | [266B.py](./800/266B.py)|
 | [271A - Beautiful Year](https://codeforces.com/problemset/problem/271/A) | [271A.py](./800/271A.py)|
 | [281A - Word Capitalization](https://codeforces.com/problemset/problem/281/A) | [281A.py](./800/281A.py)|
