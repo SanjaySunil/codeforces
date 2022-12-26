@@ -9,7 +9,7 @@
 <h3 align='center'>Solutions to problems from the <a href="https://codeforces.com/problemset">problem set</a> on <a href="https://www.codeforces.com/">CodeForces</a></h3>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-34-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-35-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 <br/>
@@ -43,6 +43,7 @@ This repository contains my solutions to problems from the CodeForces problem se
 | [467A - George and Accommodation](https://codeforces.com/problemset/problem/467/A) | [467A.py](./800/467A.py)|
 | [4A - Watermelon](https://codeforces.com/problemset/problem/4/A) | [4A.py](./800/4A.py)|
 | [50A - Domino piling](https://codeforces.com/problemset/problem/50/A) | [50A.py](./800/50A.py)|
+| [520A - Pangram](https://codeforces.com/problemset/problem/520/A) | [520A.py](./800/520A.py)|
 | [546A - Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | [546A.py](./800/546A.py)|
 | [59A - Word](https://codeforces.com/problemset/problem/59/A) | [59A.py](./800/59A.py)|
 | [61A - Ultra-Fast Mathematician](https://codeforces.com/problemset/problem/61/A) | [61A.py](./800/61A.py)|
