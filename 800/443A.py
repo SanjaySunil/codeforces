@@ -1,0 +1,1 @@
+print(len(set(list(map(str, input().replace('{', '').replace('}', '').replace(',', '').split())))))
