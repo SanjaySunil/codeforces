@@ -9,7 +9,7 @@
 <h3 align='center'>Solutions to problems from the <a href="https://codeforces.com/problemset">problem set</a> on <a href="https://www.codeforces.com/">CodeForces</a></h3>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-36-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-38-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 <br/>
@@ -59,6 +59,8 @@ This repository contains my solutions to problems from the CodeForces problem se
 
 | Problem | Solution |
 |---|---|
+| [160A - Twins](https://codeforces.com/problemset/problem/160/A) | [160A.py](./900/160A.py)|
+| [96A - Football](https://codeforces.com/problemset/problem/96/A) | [96A.py](./900/96A.py)|
 
 ## Difficulty: 1000
 
