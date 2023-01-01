@@ -9,7 +9,7 @@
 <h3 align='center'>Solutions to problems from the <a href="https://codeforces.com/problemset">problem set</a> on <a href="https://www.codeforces.com/">CodeForces</a></h3>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-46-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-47-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 <br/>
@@ -44,6 +44,7 @@ This repository contains my solutions to problems from the CodeForces problem se
 | [339A - Helpful Maths](https://codeforces.com/problemset/problem/339/A) | [339A.py](./800/339A.py)|
 | [344A - Magnets](https://codeforces.com/problemset/problem/344/A) | [344A.py](./800/344A.py)|
 | [41A - Translation](https://codeforces.com/problemset/problem/41/A) | [41A.py](./800/41A.py)|
+| [427A - Police Recruits](https://codeforces.com/problemset/problem/427/A) | [427A.py](./800/427A.py)|
 | [443A - Anton and Letters](https://codeforces.com/problemset/problem/443/A) | [443A.py](./800/443A.py)|
 | [467A - George and Accommodation](https://codeforces.com/problemset/problem/467/A) | [467A.py](./800/467A.py)|
 | [469A - I Wanna Be the Guy](https://codeforces.com/problemset/problem/469/A) | [469A.py](./800/469A.py)|
