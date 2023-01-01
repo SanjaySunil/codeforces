@@ -9,7 +9,7 @@
 <h3 align='center'>Solutions to problems from the <a href="https://codeforces.com/problemset">problem set</a> on <a href="https://www.codeforces.com/">CodeForces</a></h3>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-47-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-48-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 <br/>
@@ -59,6 +59,7 @@ This repository contains my solutions to problems from the CodeForces problem se
 | [705A - Hulk](https://codeforces.com/problemset/problem/705/A) | [705A.py](./800/705A.py)|
 | [71A - Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | [71A.py](./800/71A.py)|
 | [734A - Anton and Danik](https://codeforces.com/problemset/problem/734/A) | [734A.py](./800/734A.py)|
+| [750A - New Year and Hurry](https://codeforces.com/problemset/problem/750/A) | [750A.py](./800/750A.py)|
 | [785A - Anton and Polyhedrons](https://codeforces.com/problemset/problem/785/A) | [785A.py](./800/785A.py)|
 | [791A - Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | [791A.py](./800/791A.py)|
 | [977A - Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) | [977A.py](./800/977A.py)|
