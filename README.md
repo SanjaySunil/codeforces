@@ -9,7 +9,7 @@
 <h3 align='center'>Solutions to problems from the <a href="https://codeforces.com/problemset">problem set</a> on <a href="https://www.codeforces.com/">CodeForces</a></h3>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-42-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-45-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 <br/>
@@ -25,8 +25,10 @@ This repository contains my solutions to problems from the CodeForces problem se
 | [112A - Petya and Strings](https://codeforces.com/problemset/problem/112/A) | [112A.py](./800/112A.py)|
 | [116A - Tram](https://codeforces.com/problemset/problem/116/A) | [116A.py](./800/116A.py)|
 | [136A - Presents](https://codeforces.com/problemset/problem/136/A) | [136A.py](./800/136A.py)|
+| [141A - Amusing Joke](https://codeforces.com/problemset/problem/141/A) | [141A.py](./800/141A.py)|
 | [144A - Arrival of the General](https://codeforces.com/problemset/problem/144/A) | [144A.py](./800/144A.py)|
 | [148A - Insomnia cure](https://codeforces.com/problemset/problem/148/A) | [148A.py](./800/148A.py)|
+| [155A - I_love_%username%](https://codeforces.com/problemset/problem/155/A) | [155A.py](./800/155A.py)|
 | [1772A - A+B?](https://codeforces.com/problemset/problem/1772/A) | [1772A.py](./800/1772A.py)|
 | [200B - Drinks](https://codeforces.com/problemset/problem/200/B) | [200B.py](./800/200B.py)|
 | [228A - Is your horseshoe on the other hoof?](https://codeforces.com/problemset/problem/228/A) | [228A.py](./800/228A.py)|
@@ -46,6 +48,7 @@ This repository contains my solutions to problems from the CodeForces problem se
 | [469A - I Wanna Be the Guy](https://codeforces.com/problemset/problem/469/A) | [469A.py](./800/469A.py)|
 | [4A - Watermelon](https://codeforces.com/problemset/problem/4/A) | [4A.py](./800/4A.py)|
 | [50A - Domino piling](https://codeforces.com/problemset/problem/50/A) | [50A.py](./800/50A.py)|
+| [510A - Fox And Snake](https://codeforces.com/problemset/problem/510/A) | [510A.py](./800/510A.py)|
 | [520A - Pangram](https://codeforces.com/problemset/problem/520/A) | [520A.py](./800/520A.py)|
 | [546A - Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | [546A.py](./800/546A.py)|
 | [59A - Word](https://codeforces.com/problemset/problem/59/A) | [59A.py](./800/59A.py)|
