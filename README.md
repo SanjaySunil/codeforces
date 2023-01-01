@@ -9,7 +9,7 @@
 <h3 align='center'>Solutions to problems from the <a href="https://codeforces.com/problemset">problem set</a> on <a href="https://www.codeforces.com/">CodeForces</a></h3>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-48-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-49-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 <br/>
@@ -53,6 +53,7 @@ This repository contains my solutions to problems from the CodeForces problem se
 | [510A - Fox And Snake](https://codeforces.com/problemset/problem/510/A) | [510A.py](./800/510A.py)|
 | [520A - Pangram](https://codeforces.com/problemset/problem/520/A) | [520A.py](./800/520A.py)|
 | [546A - Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | [546A.py](./800/546A.py)|
+| [581A - Vasya the Hipster](https://codeforces.com/problemset/problem/581/A) | [581A.py](./800/581A.py)|
 | [59A - Word](https://codeforces.com/problemset/problem/59/A) | [59A.py](./800/59A.py)|
 | [61A - Ultra-Fast Mathematician](https://codeforces.com/problemset/problem/61/A) | [61A.py](./800/61A.py)|
 | [677A - Vanya and Fence](https://codeforces.com/problemset/problem/677/A) | [677A.py](./800/677A.py)|
